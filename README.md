@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noel. A Backend Developer with solid practice in web, cloud and big data platforms.
+- 👋 Hi, I’m Noel John. A Backend Developer with solid practice in web, cloud and big data platforms.
 - 👀 I’m interested in Java, SQL, Spark, GCP and Airflow
 - 🌱 I’m currently learning Python, Kafka and Azure
 - 📫 You can connect me on Linkedin. @noeljohnk
